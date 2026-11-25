@@ -1,4 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Leon%20Store&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/leooalderic/leooalderic/main/header.svg" width="100%" alt="header" />
+
+<h2 align="center">Hi, I'm Leon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /></h2>
+
+<p align="center">
+  Mobile & web developer building <b>Leon Store</b> — a full ecosystem of
+  mobile app, website, API, and supplier system.
+</p>
 
 <h2 align="center">Hi, I'm Leon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /></h2>
 
