@@ -11,13 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=leooalderic&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
 </p>
 
-### 🛒 What I'm working on
+### What I'm working on
 - **Leon Store** — main store app built with Flutter
 - **LeonStore Web** — storefront built with JavaScript
 - **API** — backend that connects the app, web, and suppliers
 - **Supplier App** — tools for managing supplier products
 
-### 🖥 Skills
+### Skills
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
@@ -28,13 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=leooalderic&show_icons=true&theme=dracula" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooalderic&layout=compact&theme=dracula" />
 </p>
 
-### 📫 Connect
+### Connect
 <p>
   <a href="https://www.instagram.com/lny.andika"><img src="https://img.shields.io/badge/-Instagram-7339B0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/leony-andika-triwicaksono-8644aa393/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
