@@ -1,16 +1,40 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Leon 👋</h2>
 
-<!--
-**leooalderic/leooalderic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Mobile & web developer building <b>Leon Store</b> — a full ecosystem of
+  mobile app, website, API, and supplier system.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-leooalderic-blue?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛒 What I'm working on
+- **Leon Store** — main store app built with Flutter
+- **LeonStore Web** — storefront built with JavaScript
+- **API** — backend that connects the app, web, and suppliers
+- **Supplier App** — tools for managing supplier products
+
+### 🖥 Skills
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</p>
+
+### 📊 GitHub Stats
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leooalderic&show_icons=true&theme=dracula" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooalderic&layout=compact&theme=dracula" />
+</p>
+
+### 📫 Connect
+<p>
+  <a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/-Instagram-7339B0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:EMAIL_KAMU"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
