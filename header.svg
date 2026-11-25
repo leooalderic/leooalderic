@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="14" fill="url(#bg)"/>
+
+  <!-- floating dots -->
+  <circle cx="120" cy="60" r="3" fill="#36BCF7" fill-opacity="0.6">
+    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="150" r="2" fill="#A78BFA" fill-opacity="0.7">
+    <animate attributeName="cy" values="150;125;150" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="55" r="3" fill="#A78BFA" fill-opacity="0.6">
+    <animate attributeName="cy" values="55;35;55" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="140" r="2" fill="#36BCF7" fill-opacity="0.7">
+    <animate attributeName="cy" values="140;115;140" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- animated waves -->
+  <path fill="#36BCF7" fill-opacity="0.12" d="M0 175 Q 250 135 500 175 T 1000 175 V220 H0 Z">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0 175 Q 250 135 500 175 T 1000 175 V220 H0 Z;
+              M0 175 Q 250 215 500 175 T 1000 175 V220 H0 Z;
+              M0 175 Q 250 135 500 175 T 1000 175 V220 H0 Z"/>
+  </path>
+  <path fill="#A78BFA" fill-opacity="0.12" d="M0 190 Q 250 160 500 190 T 1000 190 V220 H0 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 190 Q 250 160 500 190 T 1000 190 V220 H0 Z;
+              M0 190 Q 250 220 500 190 T 1000 190 V220 H0 Z;
+              M0 190 Q 250 160 500 190 T 1000 190 V220 H0 Z"/>
+  </path>
+
+  <!-- title -->
+  <text x="500" y="100" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif"
+        font-size="58" font-weight="700" fill="#ffffff" opacity="0">
+    Leon Store
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
+  </text>
+
+  <!-- rotating roles -->
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="22" text-anchor="middle" fill="url(#accent)">
+    <text x="500" y="145" opacity="0">Mobile &amp; Web Developer
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite"
+        keyTimes="0;0.05;0.30;0.35;1" values="0;1;1;0;0"/>
+    </text>
+    <text x="500" y="145" opacity="0">Flutter &amp; JavaScript
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite"
+        keyTimes="0;0.33;0.38;0.63;0.68;1" values="0;0;1;1;0;0"/>
+    </text>
+    <text x="500" y="145" opacity="0">Learning by building
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite"
+        keyTimes="0;0.66;0.71;0.96;1" values="0;0;1;1;0"/>
+    </text>
+  </g>
+</svg>
