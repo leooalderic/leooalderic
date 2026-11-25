@@ -5,14 +5,6 @@
 <p align="center">
   Mobile & web developer building <b>Leon Store</b> — a full ecosystem of
   mobile app, website, API, and supplier system.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Flutter+%26+JavaScript+Developer;Building+Leon+Store+🛒;Learning+by+building" alt="typing" />
-</p>
-
-<p align="center">
-  Mobile & web developer building <b>Leon Store</b> — a full ecosystem of
-  mobile app, website, API, and supplier system.
 </p>
 
 <p align="center">
