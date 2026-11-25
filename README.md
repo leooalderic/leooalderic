@@ -34,7 +34,7 @@
 
 ### 📫 Connect
 <p>
-  <a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/-Instagram-7339B0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL_KAMU"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/lny.andika"><img src="https://img.shields.io/badge/-Instagram-7339B0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leony-andika-triwicaksono-8644aa393/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="leonyandikatriwicaksono@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
